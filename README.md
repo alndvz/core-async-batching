@@ -1,36 +1,12 @@
 # core-async-paterns
 
-FIXME: description
+This repo accompanies the following blog post. For more information please read the post.
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar core-async-paterns-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+https://medium.com/@allandaviesza/core-async-patterns-batching-896b3ec34cd0
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Allan Davies
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
